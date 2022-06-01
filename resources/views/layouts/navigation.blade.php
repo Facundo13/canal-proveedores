@@ -22,7 +22,7 @@
                         </x-nav-link>             
                     @endauth
                 </div>
-            </div>
+            </div> 
 
                 
             <!-- Settings Dropdown -->
